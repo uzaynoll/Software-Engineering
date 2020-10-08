@@ -1,0 +1,14 @@
+My program will have a main function.
+I will write a function that will calculate the mean of the provided array of the numbers.
+I will write another function that will calculate the standard deviation of the provided array of the numbers.
+
+I guessed 5 numbers so n=5;
+
+My main function should take about 15 minutes.
+
+Task                 Time
+Main Method           15
+Mean function         15
+Standard deviation    25
+Error Fixing          20
+Tests                 20 

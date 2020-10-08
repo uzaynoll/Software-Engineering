@@ -73,6 +73,6 @@ Customer_Dictionary(filedata)
 Transaction_Dictionary(filedata)
 
 Transaction()
-testdata = ReadFile("testData.txt")
+testdata = ReadFile("CorrectOutput.txt")
 TestResult(testdata)
 TransactionLog("transactionLog.txt")
