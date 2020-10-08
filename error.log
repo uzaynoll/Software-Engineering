@@ -1,0 +1,4 @@
+10/08/2020 2:10     Undefined variable 'filename'
+10/08/2020 2:12     Undefined variable 'line'
+10/08/2020 2:12     Undefined variable 'info_transaction'
+10/08/2020 2:17     ValueError: Invalid format specifier

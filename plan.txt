@@ -1,0 +1,41 @@
+My Program will have:
+
+ Dictionary for:
+    Customer
+    Employee
+    Transactions
+    Log
+
+Methods like:
+    Read File method:
+        read the content of data file.
+    Create Customer Dictionary method:
+        Cutomer dictionary creation with the data read from the file.
+    Create Employee Dictionary method:
+        Employee dictionary creation with the data read from the file.
+    Create Transaction Dictionary method:
+        Transaction dictionary creation with the data read from the file.
+    Deposit Function:
+        Read the details of customer and Employee
+        Add the deposited balance to the previous balance
+        log the changes
+    Withdraw Function
+        Read the details of customer and Employee
+        Deduct the withdrawn balance to the previous balance
+        log the changes
+    Transaction function
+        Process deposit and withdraw
+    Create Log File
+        Transaction Logs.
+    
+
+Task,Time,Line of Codes
+Define dictionary, 5, 3
+Read File method,3,3
+Create Employee Dictionary method, 15 , 20
+Create Customer Dictionary method, 15 , 20
+Create Transaction Dictionary method, 15, 20
+Transaction function, 10, 8
+Deposit function, 15, 20
+Withdraw function, 15, 20
+Create log file, 10, 10
